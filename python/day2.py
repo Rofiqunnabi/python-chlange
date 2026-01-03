@@ -14,5 +14,5 @@ print ("insawallha it will be work before the " ,yourtime +" done")
 #oprator & oprarent  & opration expression
 x=5 
 y=10
-z=x+y
-print(z)
+
+print(x+y)
