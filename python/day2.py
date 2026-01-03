@@ -15,4 +15,4 @@ print ("insawallha it will be work before the " ,yourtime +" done")
 x=5 
 y=10
 
-print(x+y)
+print( x+y)
