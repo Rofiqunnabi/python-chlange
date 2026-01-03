@@ -7,6 +7,10 @@ I will practice Python regularly and **upload code daily** as part of my learnin
 
 ## 📘 Learning Roadmap
 
+Each chapter contains:
+- `notes` → Chapter-wise explanation and concepts
+- `.py` files → Practice codes related to the chapter
+  
 ### 🔹 Beginner Level
 - Variables and Data Types
 - Input and Output
