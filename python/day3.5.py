@@ -14,7 +14,7 @@ difference = num1 - num2
 product = num1 * num2
 
 # Check if first number is greater
-is_greater = num1 > num2
+is_greater = num1 > num2 
 
 # Print results
 print(f"\nSum: {sum_result}")
