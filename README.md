@@ -32,7 +32,7 @@ Each chapter contains:
 - Working with APIs
 - Basic Projects
 
----
+
 
 ## 🛠 Requirements
 - Python 3.x
